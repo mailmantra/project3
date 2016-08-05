@@ -1,0 +1,42 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:300);
+
+.history{width:100%; background:#FFF; overflow:hidden; padding:10px; margin:10px 0;}
+.history h2{font-family: 'Open Sans', sans-serif; font-size:16px; line-height:30px; color:#929099; margin:0; }
+.history h3{font-family: 'Open Sans', sans-serif; font-size:14px; line-height:30px; color:#929099; text-align:center; margin:0;}
+.history p{font-family: 'Open Sans', sans-serif; font-size:14px; line-height:20px; color:#cccaca; margin:0;}
+.history img{margin:0 auto;}
+.historyInner{overflow:hidden;}
+.historyLeft{width:50%; float:left; margin:0;}
+.historyRight{width:50%; float:right; margin:0;}
+
+.freeRides{overflow:hidden; margin:15px 0;}
+.centerText{text-align:center; font-size:20px !important; padding:10px 0;}
+.lightsky{color:#34b6c6;}
+.lightsky:hover{text-decoration:underline;}
+
+
+.whatsapp{-webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px; margin:10px 0;}
+.whatsapp p{font-family: 'Open Sans', sans-serif; font-size:16px; line-height:40px; color:#FFF; margin:0; text-align:center;}
+.whatsapp p a{color:#FFF; display:block;}
+.whatsapp p a:hover{ display:block; -webkit-border-radius: 5px; -moz-border-radius: 5px; border-radius: 5px;}
+
+.green{background:#2fa81f;}
+.green:hover{background:#289c19;}
+
+.deepblue{background:#0a091b;}
+.deepblue:hover{background:#100e30;}
+
+.lightblue{background:#1fbad6;}
+.lightblue:hover{background:#069cb7;}
+
+
+.promoCode{display: block; outline: none; width: 100%; padding: 10px; background: fff; border: solid 2px #1fbad6; margin:5px 0;}
+
+input[type="submit"], 
+.button {background:#c3c6c3; width: 100%; outline: none; border:none; color: #fff; cursor: pointer; padding: 10px; text-align: center;}
+input[type="submit"]:hover{background:#929392;}
+
+.editaccount{ padding:15px 10px; border:solid 1px #e9e8ed;}
+.editaccount h4{font-family: 'Open Sans', sans-serif; font-size:18px; line-height:18px; color:#6a6871; margin:0;}
+.editaccount p{font-family: 'Open Sans', sans-serif; font-size:14px; line-height:14px; color:#d3d3d3; margin:0;}
+
